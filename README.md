@@ -761,6 +761,17 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+## HOME
+![HOME OP](https://github.com/indrajasukumar/softweb/assets/145115195/d0c244a1-e82b-4987-b715-59a2a26dc54f)
+## PRODUCTS
+![PRODUCTS OP](https://github.com/indrajasukumar/softweb/assets/145115195/1ae96556-5cfd-41ac-94c4-326de9047272)
+## PERSONS
+![PERSON OP](https://github.com/indrajasukumar/softweb/assets/145115195/35d6e1d5-2bd0-40a4-90f2-99386119bbca)
+## CONTACT
+![CONTACT OP](https://github.com/indrajasukumar/softweb/assets/145115195/6d424a46-d8a5-400e-b383-639c65601b59)
+
+
+
 
 
 ## RESULT:
